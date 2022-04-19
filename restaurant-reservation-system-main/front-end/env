@@ -1,0 +1,2 @@
+DATABASE_URL_DEVELOPMENT = "postgres://hezuerog:1BbSsaBPme3XeUFxmv445hbZTSlM6HY2@heffalump.db.elephantsql.com/hezuerog"
+
